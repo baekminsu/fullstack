@@ -9,15 +9,15 @@
 1. Domain: 엔티티, 값 객체, 도메인 규칙
 2. Application: 유스케이스, 트랜잭션 경계, 포트
 3. Interface Adapter: 컨트롤러, 프레젠터, 리포지토리 구현
-4. Infrastructure: DB, 외부 API, 파일 시스템, 프레임워크 설정
+4. Infrastructure: DB(Database), 외부 API(Application Programming Interface), 파일 시스템, 프레임워크 설정
 
-의존성은 바깥에서 안쪽으로 향해야 합니다. 도메인이 Spring, JPA, React, PostgreSQL을 몰라야 오래 버팁니다.
+의존성은 바깥에서 안쪽으로 향해야 합니다. 도메인이 Spring, JPA(Java Persistence API), React, PostgreSQL을 몰라야 오래 버팁니다.
 
 ## Spring 적용 기준
 
 작은 프로젝트에서는 과한 패키지 분리가 비용이 될 수 있습니다. 대신 아래 경계를 먼저 지킵니다.
 
-- Controller는 HTTP 요청과 응답 변환에 집중합니다.
+- Controller는 HTTP(HyperText Transfer Protocol) 요청과 응답 변환에 집중합니다.
 - UseCase 또는 Service는 애플리케이션 흐름을 담당합니다.
 - Domain은 핵심 규칙과 불변식을 담당합니다.
 - Repository 인터페이스는 애플리케이션 또는 도메인 쪽에 두고 구현은 인프라에 둡니다.
@@ -52,4 +52,3 @@ src/main/java/com/example/app
 - [ ] 외부 시스템 장애를 애플리케이션 실패 모델로 바꿔 처리한다.
 - [ ] 테스트에서 DB 없이 핵심 규칙을 검증할 수 있다.
 - [ ] 계층 분리가 이름만 있고 의존성은 뒤섞여 있지 않다.
-

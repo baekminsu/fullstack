@@ -6,15 +6,15 @@
 
 목표 기간: 1개월
 
-- Java, TypeScript, SQL 기본기를 빠르게 점검합니다.
-- Git, GitHub, Linux CLI, HTTP, JSON, REST의 실제 사용 능력을 확인합니다.
-- 하나의 작은 CRUD 서비스를 Spring, React, PostgreSQL로 끝까지 배포해봅니다.
+- Java, TypeScript, SQL(Structured Query Language) 기본기를 빠르게 점검합니다.
+- Git, GitHub, Linux CLI(Command Line Interface), HTTP(HyperText Transfer Protocol), JSON(JavaScript Object Notation), REST(Representational State Transfer)의 실제 사용 능력을 확인합니다.
+- 하나의 작은 CRUD(Create, Read, Update, Delete) 서비스를 Spring, React, PostgreSQL로 끝까지 배포해봅니다.
 - 모든 학습 기록은 이 저장소에 Markdown으로 남깁니다.
 
 완료 기준:
 
-- 로컬에서 백엔드, 프론트엔드, DB를 실행할 수 있습니다.
-- API 명세, ERD, 테스트 결과, 회고를 한 번 이상 작성했습니다.
+- 로컬에서 백엔드, 프론트엔드, DB(Database)를 실행할 수 있습니다.
+- API(Application Programming Interface) 명세, ERD(Entity Relationship Diagram), 테스트 결과, 회고를 한 번 이상 작성했습니다.
 - 모르는 개념을 "정의, 왜 필요한가, 예시, 주의점" 형식으로 설명할 수 있습니다.
 
 ## 1단계: 실무 기본기
@@ -22,7 +22,7 @@
 목표 기간: 6개월
 
 - Clean Code와 객체지향 원칙을 작은 코드에 반복 적용합니다.
-- Spring MVC, Validation, Security, JPA, 트랜잭션을 익힙니다.
+- Spring MVC(Model View Controller), Validation, Security, JPA(Java Persistence API), 트랜잭션을 익힙니다.
 - React 컴포넌트 설계, 상태 관리, 폼, 라우팅, 비동기 처리를 익힙니다.
 - PostgreSQL의 조인, 인덱스, 실행 계획, 트랜잭션 격리를 익힙니다.
 - 단위 테스트, 통합 테스트, E2E 테스트의 용도를 구분합니다.
@@ -46,7 +46,7 @@
 완료 기준:
 
 - 기능 추가 요청을 받으면 영향 범위, 위험, 테스트 전략을 먼저 말할 수 있습니다.
-- API, DB, UI 변경을 하나의 배포 단위로 계획할 수 있습니다.
+- API(Application Programming Interface), DB(Database), UI(User Interface) 변경을 하나의 배포 단위로 계획할 수 있습니다.
 - 장애 상황을 재현하고 원인, 수정, 재발 방지까지 문서화할 수 있습니다.
 
 ## 3단계: 시스템 설계와 운영
@@ -93,4 +93,3 @@
 - 모르는 기술도 원리, 문서, 작은 실험으로 빠르게 판단합니다.
 - 단기 납기와 장기 품질 사이에서 현실적인 선택지를 제시합니다.
 - 직접 코딩, 설계, 리뷰, 멘토링, 운영 개선을 모두 수행할 수 있습니다.
-

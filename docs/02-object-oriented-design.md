@@ -14,11 +14,11 @@
 
 SOLID를 암기 목록으로 보지 않습니다. 아래 질문으로 코드를 검토합니다.
 
-- SRP: 이 모듈은 누구의 요구 때문에 변경되는가?
-- OCP: 새 정책을 추가할 때 기존 코드를 얼마나 고치는가?
-- LSP: 하위 타입을 넣어도 호출자의 기대가 깨지지 않는가?
-- ISP: 사용하지 않는 메서드에 의존하고 있지 않은가?
-- DIP: 비즈니스 규칙이 프레임워크나 DB 세부사항에 끌려다니지 않는가?
+- SRP(Single Responsibility Principle): 이 모듈은 누구의 요구 때문에 변경되는가?
+- OCP(Open Closed Principle): 새 정책을 추가할 때 기존 코드를 얼마나 고치는가?
+- LSP(Liskov Substitution Principle): 하위 타입을 넣어도 호출자의 기대가 깨지지 않는가?
+- ISP(Interface Segregation Principle): 사용하지 않는 메서드에 의존하고 있지 않은가?
+- DIP(Dependency Inversion Principle): 비즈니스 규칙이 프레임워크나 DB(Database) 세부사항에 끌려다니지 않는가?
 
 ## 연습 과제
 
@@ -41,4 +41,3 @@ SOLID를 암기 목록으로 보지 않습니다. 아래 질문으로 코드를 
 - [ ] 정책 변경이 조건문 폭발로 이어지지 않는다.
 - [ ] 인터페이스는 실제 경계가 필요할 때 만든다.
 - [ ] 테스트가 객체의 책임을 설명한다.
-

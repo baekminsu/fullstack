@@ -31,7 +31,7 @@
 - 현재 프로젝트에서 변경이 잦은 부분과 안정적인 부분을 구분합니다.
 - 아키텍처 선택의 장점뿐 아니라 비용을 같이 기록합니다.
 
-## 3순위: CS와 시스템
+## 3순위: CS(Computer Science)와 시스템
 
 - Computer Systems: A Programmer's Perspective
 - Operating Systems: Three Easy Pieces
@@ -43,7 +43,7 @@
 
 - 개념을 Spring, React, PostgreSQL의 실제 문제와 연결합니다.
 - 성능 문제를 직접 재현하고 측정합니다.
-- 네트워크, OS, DB가 한 요청 처리에 어떻게 관여하는지 추적합니다.
+- 네트워크, OS(Operating System), DB(Database)가 한 요청 처리에 어떻게 관여하는지 추적합니다.
 
 ## 4순위: 프론트엔드와 사용자 경험
 
@@ -72,4 +72,3 @@
 - 개인 기술뿐 아니라 팀과 시스템의 반복 문제를 관찰합니다.
 - 좋은 의사결정 문서와 나쁜 의사결정 문서를 비교합니다.
 - 코드 작성 외에 리뷰, 운영, 멘토링의 기준을 세웁니다.
-

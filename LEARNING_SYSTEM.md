@@ -7,7 +7,7 @@
 월요일:
 
 - 이번 주에 만들 기능 하나를 정합니다.
-- 기능의 성공 기준, API, DB 변경, UI 흐름을 짧게 씁니다.
+- 기능의 성공 기준, API(Application Programming Interface), DB(Database) 변경, UI(User Interface) 흐름을 짧게 씁니다.
 
 화요일부터 목요일:
 
@@ -50,4 +50,3 @@
 - PostgreSQL에서 새로 이해한 실행 계획이나 잠금 사례가 있는가?
 - React에서 사용자 경험이나 성능을 개선한 사례가 있는가?
 - 다음 달에 줄일 나쁜 습관은 무엇인가?
-
