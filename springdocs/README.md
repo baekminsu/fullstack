@@ -13,6 +13,7 @@
 7. [07-spring-data-jpa-and-transactions.md](./07-spring-data-jpa-and-transactions.md): JPA(Java Persistence API), 트랜잭션, 영속성, 쿼리
 8. [08-spring-security-testing-observability.md](./08-spring-security-testing-observability.md): 보안, 테스트, 로깅, 관측 가능성
 9. [09-spring-project-curriculum.md](./09-spring-project-curriculum.md): 단계별 프로젝트와 체크리스트
+10. [10-google-java-style-guide.md](./10-google-java-style-guide.md): Google Java Style Guide 적용
 
 ## 학습 산출물
 

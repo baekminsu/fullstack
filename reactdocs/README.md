@@ -12,6 +12,7 @@
 6. [06-react-routing-server-state.md](./06-react-routing-server-state.md): 라우팅, 서버 상태, API(Application Programming Interface) 연동
 7. [07-react-performance-testing-accessibility.md](./07-react-performance-testing-accessibility.md): 성능, 테스트, 접근성
 8. [08-react-project-curriculum.md](./08-react-project-curriculum.md): 단계별 프로젝트
+9. [09-google-javascript-style-guide.md](./09-google-javascript-style-guide.md): Google JavaScript와 HTML/CSS Style Guide 적용
 
 ## 학습 원칙
 

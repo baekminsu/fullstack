@@ -11,6 +11,7 @@ TypeScript는 JavaScript에 정적 타입 시스템을 더한 언어입니다. �
 5. [05-react-with-typescript.md](./05-react-with-typescript.md): React 컴포넌트와 hooks 타입
 6. [06-advanced-patterns.md](./06-advanced-patterns.md): mapped type, conditional type, utility type
 7. [07-ts-project-curriculum.md](./07-ts-project-curriculum.md): 단계별 프로젝트
+8. [08-google-typescript-style-guide.md](./08-google-typescript-style-guide.md): Google TypeScript Style Guide 적용
 
 ## 학습 원칙
 
