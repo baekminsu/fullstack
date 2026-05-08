@@ -26,6 +26,7 @@
 - [docs/08-fullstack-projects.md](./docs/08-fullstack-projects.md): 프로젝트 포트폴리오
 - [docs/09-reading-list.md](./docs/09-reading-list.md): 추천 도서와 읽는 순서
 - [docs/10-career-growth.md](./docs/10-career-growth.md): 커리어 성장 루틴
+- [workflow/README.md](./workflow/README.md): Notion, GitHub Projects, commit, issue, task 운영 규칙
 
 ## 세부 기술 문서
 
